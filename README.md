@@ -1,7 +1,7 @@
 Lista de tarefas
 
 - [X] Criar o projeto
-- [ ] Criar Tela de Login
+- [x] Criar Tela de Login
 - [ ] Criar Tela de Cadastro
 - [ ] Criar Tela de Recuperação de Senha
 - [ ] Criar Tela de Dashboard com Collaboradores
